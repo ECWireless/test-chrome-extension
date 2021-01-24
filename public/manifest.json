@@ -29,6 +29,7 @@
     "48": "logo.png",
     "128": "logo.png"
   },
-  "content_security_policy": "script-src 'self' 'sha256-sNVtP2jb5p4pR6z0Iyo4EK03P7FE4ZWPOuxOv/ApJy0='; object-src 'self'",
-  "permissions": []
+  "content_security_policy": "script-src 'self' 'sha256-5YOkN839SBZLwUo0pLrBsVpsEf4vzRk5L1g0Ziu+eF4='; object-src 'self'",
+  "permissions": ["storage"]
+
 }
