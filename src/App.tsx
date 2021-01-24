@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+// Components
+import { Button } from "./components/Button";
 
 function App() {
   return (
     <div className="App">
-      New Text test!
+      <Button />
     </div>
   );
 }

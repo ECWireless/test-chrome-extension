@@ -1,5 +1,5 @@
 # Test app for Chrome Extension
-
+Based on https://react.christmas/2020/12
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
